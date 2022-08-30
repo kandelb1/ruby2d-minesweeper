@@ -3,7 +3,7 @@
 ### Available Difficulties
 Beginner: 12x12 with 20 mines
 
-Intermediate: 18x18 with 45 mines
+Intermediate: 18x16 with 45 mines
 
 Expert: 25x16 with 75 mines
 
